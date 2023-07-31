@@ -1,0 +1,8 @@
+if __name__ == "__main__":
+    try:
+        numbers = list(map(int, input().split()))
+        avg = sum (numbers) / len(numbers)
+        print (int(avg), max(numbers))
+
+    except PotentialError:
+        print("Invalid. Please enter integers separated by spaces.")
