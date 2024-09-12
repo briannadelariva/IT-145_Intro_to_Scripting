@@ -1,4 +1,4 @@
-### This is a lab assignment for IT-145 Intro to Scripting course at Southern New Hampshire University to calculate the seasons given the month and day inputs. 
+### This is an assignment for IT-145 Intro to Scripting course at Southern New Hampshire University to calculate the seasons given the month and day inputs. 
 
 ###The dates for each season are:
 ### Spring: March 20 - June 20
